@@ -1,4 +1,4 @@
-module github.com/linbojin/1688-mcp
+module github.com/linbojin/1688-mcp-public
 
 go 1.24.0
 

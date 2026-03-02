@@ -13,7 +13,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	appErrors "github.com/linbojin/1688-mcp/errors"
+	appErrors "github.com/linbojin/1688-mcp-public/errors"
 )
 
 // Search1688 搜索 1688 商品

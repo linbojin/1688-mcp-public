@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/linbojin/1688-mcp/alibaba"
+	"github.com/linbojin/1688-mcp-public/alibaba"
 )
 
 // AlibabaService 1688 核心业务逻辑

@@ -2,7 +2,7 @@
 
 A Go MCP server for 1688 dropship automation — search for dropship-friendly products and list them to your Douyin shop (铺货) with a single command.
 
-**GitHub:** [linbojin/1688-mcp](https://github.com/linbojin/1688-mcp)
+**GitHub:** [linbojin/1688-mcp-public](https://github.com/linbojin/1688-mcp-public)
 
 ## MCP Tools
 
@@ -17,7 +17,7 @@ A Go MCP server for 1688 dropship automation — search for dropship-friendly pr
 
 ### Step 1: Download Binaries
 
-Download from [GitHub Releases](https://github.com/linbojin/1688-mcp/releases):
+Download from [GitHub Releases](https://github.com/linbojin/1688-mcp-public/releases):
 
 | Platform | MCP Server | Login Tool |
 |----------|------------|------------|
