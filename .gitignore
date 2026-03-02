@@ -1,0 +1,6 @@
+bin/cookies.json
+bin/1688-mcp-*
+bin/1688-login-*
+*.log
+/tmp/
+
